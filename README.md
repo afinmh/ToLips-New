@@ -1,3 +1,6 @@
 Filter Bibir (Lipstik)
 
->error jir nanti dibenerin
+Udah Bener
+
+download landmark.dat di:
+https://github.com/GuoQuanhao/68_points/
